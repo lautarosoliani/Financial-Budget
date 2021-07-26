@@ -7,7 +7,7 @@
 
 function App() {
   return (
-    <><h1>Budget</h1>
+    <><h1>Financial Budget</h1>
     </>
   );
 }
