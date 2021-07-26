@@ -7,7 +7,7 @@
 
 function App() {
   return (
-    <><h1>Financial Budget testing</h1>
+    <><h1>Presupuesto</h1>
     </>
   );
 }
